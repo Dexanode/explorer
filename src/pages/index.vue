@@ -32,8 +32,8 @@ const chainStore = useBlockchain()
       <h1 class="text-primary dark:text-teal-200 text-3xl md:!text-6xl font-bold">
         DEXANODE EXPLORER
       </h1>
-      <div class="badge badge-primary badge-outline dark:invert mt-1 text-sm md:!mt-8">
-        {{ $t('pages.tag') }}
+      <div class="badge badge-primary badge-outline dark:text-teal-300 mt-1 text-sm md:!mt-8">
+        BETA
       </div>
     </div>
     <div class="text-center text-base">
