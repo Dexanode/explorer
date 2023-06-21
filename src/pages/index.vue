@@ -37,10 +37,10 @@ const chainStore = useBlockchain()
       </div>
     </div>
     <div class="text-center text-base">
-      <p class="mb-1 dark:text-teal-300">
+      <p class="mb-1 dark:text-teal-500">
         Your Trustworthy Partner in Blockchain Validation: Empowering a Secure Future
       </p>
-      <h2 class="mb-6 dark:text-teal-300">🚀 Stake With Dexanode 🚀</h2>
+      <h2 class="mb-6 font-bold dark:text-teal-300">🚀 Stake With Dexanode 🚀</h2>
     </div>
     <div
       v-if="dashboard.status !== LoadingStatus.Loaded"
