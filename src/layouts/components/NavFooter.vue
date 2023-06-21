@@ -5,17 +5,15 @@
   >
     <div class="flex flex-1">
       &copy;&nbsp;
-      {{ new Date().getFullYear() }}&nbsp;
-      Made With&nbsp;
-      <img src="../../assets/images/heart.svg" />&nbsp;
-      By&nbsp;
       <a
-        class="link link-primary no-underline"
-        href="https://ping.pub"
+        class="link link-primary no-underline dark:text-teal-200"
+        href="https://0xdexa.com"
         target="_blank"
         rel="noopener noreferrer"
-        >Ping.pub</a
-      >
+        >Dexanode</a
+      >&nbsp;
+      {{ new Date().getFullYear() }}&nbsp;
+      All Right Reserved
     </div>
     <div
       class="hidden md:!block"
